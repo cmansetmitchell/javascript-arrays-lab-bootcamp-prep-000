@@ -40,3 +40,6 @@ var removeFirstKitten = function(name){
   return k; 
   
 }
+=======
+}
+>>>>>>> f337143fb9cf6ef8f05332b7c65fe79103d5b934
